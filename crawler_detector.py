@@ -28,8 +28,8 @@ MAX_WORKERS = 4
 REQUEST_TIMEOUT = 15
 RATE_LIMIT_SECONDS = 1.0  # per-request delay per-domain (simple)
 KEYWORDS = [
-    "불법유통", "해킹 DB", "계정판매", "계정 매매",
-    "개인정보", "유출", "DB", "해킹", "010인증"
+    "네이버 해킹", "해킹 DB", "계정 판매", "계정 매매",
+    "개인정보", "유출", "해킹", "010인증". "게임 해킹"
 ]
 FUZZY_THRESHOLD = 80  # rapidfuzz 비율 임계값
 
